@@ -751,7 +751,7 @@ a{
   .post-activity-link img{
     margin-right: 0;
   }
-  .profile-main, .profile-sidebar{
+  .profile-main .profile-sidebar{
     flex-basis: 100%;
   }
   .profile-container{
